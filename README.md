@@ -20,3 +20,7 @@ python3 hello.py
 ```
 
 Displays a rainbow-colored ASCII art greeting with sparkles and a random friendly message!
+
+## Contributors
+
+cc @lbroodenburg @jbarmart
